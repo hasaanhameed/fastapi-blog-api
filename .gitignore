@@ -1,0 +1,5 @@
+# ALL THE FILES WE WANT TO IGNORE 
+
+__pychache__ 
+fastAPIvenv
+.DS_Store
