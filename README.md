@@ -37,23 +37,6 @@ This project was built as part of my FastAPI learning journey and demonstrates h
 - Delete a blog  
 - Automatic linking to the blog creator  
 
-### Project Structure
-Blog/
-├── routers/
-│ ├── blog.py
-│ ├── user.py
-│ └── authentication.py
-├── repository/
-│ ├── blog.py
-│ ├── user.py
-│ └── authentication.py
-├── models.py
-├── database.py
-├── hashing.py
-├── oauth2.py
-└── auth_token.py
-main.py
-
 ## Tech Stack
 
 - **FastAPI**
